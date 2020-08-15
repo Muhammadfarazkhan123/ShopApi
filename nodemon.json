@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW" :"nodeShop",
+        "MONGO_ATLAS_dbName":"node-shop"
+    }
+}
